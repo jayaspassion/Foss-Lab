@@ -1,18 +1,18 @@
 #!/bin/sh
 
-check_mem_val=10.0
-check_cpu_val=10.0
+check_mem_val=5.0
+check_cpu_val=5.0
 
 while(true)
 do
-  #echo "i am also working"
+  echo "i am also working"
   ps -e -o pmem=,pcpu=,pid=,user=,comm= --sort=-pmem |
   while read size cpu pid user comm
   do
     #echo $size
     kill_mem=0
     kill_cpu=0
-    if [ "$user" = "jayasoorya" ]
+    if [ "$user" = "jayasoo+" ]
     then
       kill_mem=$( echo "$size>$check_mem_val" | bc )
       kill_cpu=$( echo "$cpu>$check_cpu_val" | bc )
