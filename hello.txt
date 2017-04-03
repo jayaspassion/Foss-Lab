@@ -1,0 +1,199 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1 185188  5820 ?        Ss   Apr02   0:01 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    Apr02   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Apr02   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    Apr02   0:02 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    Apr02   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    Apr02   0:01 [rcuos/0]
+root        10  0.0  0.0      0     0 ?        S    Apr02   0:00 [rcuob/0]
+root        11  0.0  0.0      0     0 ?        S    Apr02   0:00 [migration/0]
+root        12  0.0  0.0      0     0 ?        S    Apr02   0:00 [watchdog/0]
+root        13  0.0  0.0      0     0 ?        S    Apr02   0:00 [watchdog/1]
+root        14  0.0  0.0      0     0 ?        S    Apr02   0:00 [migration/1]
+root        15  0.0  0.0      0     0 ?        S    Apr02   0:00 [ksoftirqd/1]
+root        17  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kworker/1:0H]
+root        18  0.0  0.0      0     0 ?        S    Apr02   0:00 [rcuos/1]
+root        19  0.0  0.0      0     0 ?        S    Apr02   0:00 [rcuob/1]
+root        20  0.0  0.0      0     0 ?        S    Apr02   0:00 [watchdog/2]
+root        21  0.0  0.0      0     0 ?        S    Apr02   0:00 [migration/2]
+root        22  0.0  0.0      0     0 ?        S    Apr02   0:00 [ksoftirqd/2]
+root        24  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kworker/2:0H]
+root        25  0.0  0.0      0     0 ?        S    Apr02   0:01 [rcuos/2]
+root        26  0.0  0.0      0     0 ?        S    Apr02   0:00 [rcuob/2]
+root        27  0.0  0.0      0     0 ?        S    Apr02   0:00 [watchdog/3]
+root        28  0.0  0.0      0     0 ?        S    Apr02   0:00 [migration/3]
+root        29  0.0  0.0      0     0 ?        S    Apr02   0:00 [ksoftirqd/3]
+root        31  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kworker/3:0H]
+root        32  0.0  0.0      0     0 ?        S    Apr02   0:00 [rcuos/3]
+root        33  0.0  0.0      0     0 ?        S    Apr02   0:00 [rcuob/3]
+root        34  0.0  0.0      0     0 ?        S<   Apr02   0:00 [khelper]
+root        35  0.0  0.0      0     0 ?        S    Apr02   0:00 [kdevtmpfs]
+root        36  0.0  0.0      0     0 ?        S<   Apr02   0:00 [netns]
+root        37  0.0  0.0      0     0 ?        S<   Apr02   0:00 [perf]
+root        38  0.0  0.0      0     0 ?        S    Apr02   0:00 [khungtaskd]
+root        39  0.0  0.0      0     0 ?        S<   Apr02   0:00 [writeback]
+root        40  0.0  0.0      0     0 ?        SN   Apr02   0:00 [ksmd]
+root        41  0.0  0.0      0     0 ?        SN   Apr02   0:00 [khugepaged]
+root        42  0.0  0.0      0     0 ?        S<   Apr02   0:00 [crypto]
+root        43  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kintegrityd]
+root        44  0.0  0.0      0     0 ?        S<   Apr02   0:00 [bioset]
+root        45  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kblockd]
+root        46  0.0  0.0      0     0 ?        S<   Apr02   0:00 [ata_sff]
+root        47  0.0  0.0      0     0 ?        S<   Apr02   0:00 [md]
+root        48  0.0  0.0      0     0 ?        S<   Apr02   0:00 [devfreq_wq]
+root        55  0.0  0.0      0     0 ?        S    Apr02   0:00 [kswapd0]
+root        56  0.0  0.0      0     0 ?        S    Apr02   0:00 [fsnotify_mark]
+root        57  0.0  0.0      0     0 ?        S    Apr02   0:00 [ecryptfs-kthrea]
+root        68  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kthrotld]
+root        69  0.0  0.0      0     0 ?        S<   Apr02   0:00 [acpi_thermal_pm]
+root        73  0.0  0.0      0     0 ?        S<   Apr02   0:00 [ipv6_addrconf]
+root        92  0.0  0.0      0     0 ?        S<   Apr02   0:00 [deferwq]
+root        93  0.0  0.0      0     0 ?        S<   Apr02   0:00 [charger_manager]
+root       137  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kpsmoused]
+root       138  0.0  0.0      0     0 ?        S    Apr02   0:00 [scsi_eh_0]
+root       139  0.0  0.0      0     0 ?        S<   Apr02   0:00 [scsi_tmf_0]
+root       140  0.0  0.0      0     0 ?        S    Apr02   0:00 [scsi_eh_1]
+root       141  0.0  0.0      0     0 ?        S<   Apr02   0:00 [scsi_tmf_1]
+root       144  0.0  0.0      0     0 ?        S<   Apr02   0:00 [rtsx_pci_sdmmc_]
+root       151  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kworker/1:1H]
+root       174  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kworker/2:1H]
+root       176  0.0  0.0      0     0 ?        S    Apr02   0:00 [jbd2/sda7-8]
+root       177  0.0  0.0      0     0 ?        S<   Apr02   0:00 [ext4-rsv-conver]
+root       212  0.0  0.0      0     0 ?        S    Apr02   0:00 [kauditd]
+root       238  0.0  0.1  33272  5428 ?        Ss   Apr02   0:00 /lib/systemd/systemd-journald
+root       242  0.0  0.1  45896  5300 ?        Ss   Apr02   0:01 /lib/systemd/systemd-udevd
+root       294  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kworker/3:1H]
+root       305  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kmemstick]
+root       395  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kvm-irqfd-clean]
+root       415  0.0  0.0      0     0 ?        S<   Apr02   0:00 [kworker/0:1H]
+systemd+   467  0.0  0.0 102360  2724 ?        Ssl  Apr02   0:00 /lib/systemd/systemd-timesyncd
+avahi      607  0.0  0.0  40188  3224 ?        Ss   Apr02   0:00 avahi-daemon: running [jayasoorya-Satellite-C55-C.local]
+root       608  0.0  0.2 302812  8980 ?        Ssl  Apr02   0:00 /usr/lib/accountsservice/accounts-daemon
+root       609  0.0  0.2 170504  8576 ?        Ssl  Apr02   0:00 /usr/sbin/thermald --no-daemon --dbus-enable
+root       611  0.0  0.4 462364 16024 ?        Ssl  Apr02   0:01 /usr/sbin/NetworkManager --no-daemon
+syslog     613  0.0  0.0 256372  3488 ?        Ssl  Apr02   0:00 /usr/sbin/rsyslogd -n
+root       615  0.0  0.0  25180  2600 ?        Ss   Apr02   0:00 /sbin/cgmanager -m name=systemd
+root       616  0.0  0.2 337352  8540 ?        Ssl  Apr02   0:00 /usr/sbin/ModemManager
+whoopsie   617  0.0  0.3 451968 12472 ?        Ssl  Apr02   0:00 /usr/bin/whoopsie -f
+root       622  0.0  0.0  33128  3000 ?        Ss   Apr02   0:00 /usr/sbin/cron -f
+root       627  0.0  0.0  28632  3140 ?        Ss   Apr02   0:00 /lib/systemd/systemd-logind
+message+   630  0.0  0.1  44332  5288 ?        Ss   Apr02   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+avahi      639  0.0  0.0  40068   320 ?        S    Apr02   0:00 avahi-daemon: chroot helper
+root       660  0.0  0.0  19520  2260 ?        Ss   Apr02   0:00 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root       676  0.0  0.2 272372 11420 ?        Ssl  Apr02   0:00 /usr/sbin/cups-browsed
+root       686  0.0  0.2 301340 10484 ?        Ssl  Apr02   0:00 /usr/lib/policykit-1/polkitd --no-debug
+kernoops   711  0.0  0.0  45280  2656 ?        Ss   Apr02   0:00 /usr/sbin/kerneloops
+mysql      716  0.0  0.0   4476  1620 ?        Ss   Apr02   0:00 /bin/sh /usr/bin/mysqld_safe
+mysql     1080  0.0  3.1 729276 126512 ?       Sl   Apr02   0:05 /usr/sbin/mysqld --basedir=/usr --datadir=/var/lib/mysql --plugin-dir=/usr/lib/mysql/plugin --log-error=/var/log/mysql/error.log --pid-file=/var/run/mysqld/mysqld.pid --socket=/var/run/mysqld/mysqld.sock --port=3306
+root      1090  0.0  0.1  39192  4960 ?        Ss   Apr02   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root      1109  0.0  0.6 278436 27072 ?        Ss   Apr02   0:00 /usr/sbin/apache2 -k start
+root      1113  0.0  0.2 294204  8272 ?        SLsl Apr02   0:00 /usr/sbin/lightdm
+root      1131  0.3  1.7 429908 69028 tty7     Ssl+ Apr02   2:01 /usr/bin/X -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1166  0.0  0.0   4396  1812 ?        Ss   Apr02   0:00 /usr/sbin/acpid
+root      1175  0.0  0.0  20052  2144 tty1     Ss+  Apr02   0:00 /sbin/agetty --noclear tty1 linux
+root      1238  0.0  0.1 230232  6232 ?        Sl   Apr02   0:00 lightdm --session-child 12 19
+rtkit     1302  0.0  0.0 178820  2964 ?        SNsl Apr02   0:00 /usr/lib/rtkit/rtkit-daemon
+jayasoo+  1336  0.0  0.1  45300  5176 ?        Ss   Apr02   0:00 /lib/systemd/systemd --user
+jayasoo+  1337  0.0  0.0  61180  1964 ?        S    Apr02   0:00 (sd-pam)         
+jayasoo+  1342  0.0  0.4 316068 17996 ?        SLl  Apr02   0:03 /usr/bin/gnome-keyring-daemon --daemonize --login
+jayasoo+  1344  0.0  0.1  45896  4460 ?        Ss   Apr02   0:00 /sbin/upstart --user
+jayasoo+  1436  0.0  0.0  32296  2172 ?        S    Apr02   0:00 upstart-udev-bridge --daemon --user
+jayasoo+  1437  0.0  0.1  43956  4408 ?        Ss   Apr02   0:06 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-f7inilVSkJ
+jayasoo+  1449  0.0  0.2  88172  9764 ?        Ss   Apr02   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+jayasoo+  1472  0.0  0.2 365664 11840 ?        Ssl  Apr02   0:16 /usr/bin/ibus-daemon --daemonize --xim
+jayasoo+  1486  0.0  0.0  32232   276 ?        S    Apr02   0:00 upstart-dbus-bridge --daemon --session --user --bus-name session
+jayasoo+  1487  0.0  0.0  32232   280 ?        S    Apr02   0:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+jayasoo+  1491  0.0  0.0  40708   368 ?        S    Apr02   0:00 upstart-file-bridge --daemon --user
+jayasoo+  1494  0.0  0.1 271264  5748 ?        Sl   Apr02   0:00 /usr/lib/gvfs/gvfsd
+jayasoo+  1499  0.0  0.1 422132  7448 ?        Sl   Apr02   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+jayasoo+  1511  0.0  0.1 283728  7924 ?        Sl   Apr02   0:00 /usr/lib/ibus/ibus-dconf
+jayasoo+  1512  0.0  0.7 476048 29196 ?        Sl   Apr02   0:04 /usr/lib/ibus/ibus-ui-gtk3
+jayasoo+  1514  0.0  0.3 384772 15440 ?        Sl   Apr02   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+jayasoo+  1519  0.0  0.2 355824  8184 ?        Sl   Apr02   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+jayasoo+  1524  0.0  0.1  42856  4100 ?        S    Apr02   0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+jayasoo+  1526  0.0  0.1 206828  5412 ?        Sl   Apr02   0:01 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+jayasoo+  1540  0.0  1.0 646356 41928 ?        Ssl  Apr02   0:06 /usr/lib/x86_64-linux-gnu/hud/hud-service
+jayasoo+  1542  0.0  0.8 867612 33740 ?        Ssl  Apr02   0:00 /usr/lib/unity-settings-daemon/unity-settings-daemon
+jayasoo+  1550  0.0  0.3 561516 14704 ?        Ssl  Apr02   0:00 gnome-session --session=ubuntu
+jayasoo+  1554  0.0  0.9 642396 37724 ?        Ssl  Apr02   0:08 /usr/lib/unity/unity-panel-service
+jayasoo+  1571  0.0  0.7 518960 30592 ?        Sl   Apr02   0:04 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+root      1572  0.0  0.2 345704 10516 ?        Ssl  Apr02   0:00 /usr/lib/upower/upowerd
+jayasoo+  1591  0.3  2.5 1195788 100392 ?      Ssl  Apr02   1:56 compiz
+jayasoo+  1593  0.0  0.2 207868  7932 ?        Sl   Apr02   0:04 /usr/lib/ibus/ibus-engine-simple
+jayasoo+  1619  0.0  0.2 379356  9620 ?        Ssl  Apr02   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+jayasoo+  1620  0.0  0.1 355348  7748 ?        Ssl  Apr02   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+jayasoo+  1621  0.0  0.2 441848 10392 ?        Ssl  Apr02   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+jayasoo+  1622  0.0  0.5 1241544 20600 ?       Ssl  Apr02   0:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+jayasoo+  1627  0.0  0.7 717828 28364 ?        Ssl  Apr02   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+jayasoo+  1629  0.0  0.3 487884 12520 ?        Ssl  Apr02   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+jayasoo+  1632  0.0  0.5 543840 23752 ?        Ssl  Apr02   0:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+jayasoo+  1633  0.0  0.2 904760 10656 ?        Ssl  Apr02   0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+jayasoo+  1652  0.0  0.3 469284 14176 ?        Ssl  Apr02   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+jayasoo+  1683  0.0  0.6 1241756 27428 ?       Sl   Apr02   0:00 /usr/lib/evolution/evolution-source-registry
+jayasoo+  1692  0.7  0.2 508276 11548 ?        S<l  Apr02   4:58 /usr/bin/pulseaudio --start --log-target=syslog
+jayasoo+  1704  0.0  0.1 178628  4656 ?        Sl   Apr02   0:00 /usr/lib/dconf/dconf-service
+jayasoo+  1709  0.0  0.0  22364  2416 ?        S    Apr02   0:00 syndaemon -i 1.0 -t -K -R
+colord    1710  0.0  0.3 317596 12700 ?        Ssl  Apr02   0:00 /usr/lib/colord/colord
+jayasoo+  1719  0.0  1.7 1254372 67452 ?       Sl   Apr02   0:20 nautilus -n
+jayasoo+  1720  0.0  0.5 573368 20848 ?        Sl   Apr02   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+jayasoo+  1721  0.0  0.5 427976 22584 ?        Sl   Apr02   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+jayasoo+  1727  0.0  0.8 662920 35072 ?        Sl   Apr02   0:00 nm-applet
+jayasoo+  1731  0.0  0.2 374260 10444 ?        Sl   Apr02   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+jayasoo+  1744  0.0  0.1  66156  6408 ?        S    Apr02   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+root      1751  0.0  0.3 448916 13764 ?        Ssl  Apr02   0:01 /usr/lib/udisks2/udisksd --no-debug
+jayasoo+  1762  0.0  0.1 275944  5996 ?        Sl   Apr02   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+jayasoo+  1772  0.0  0.2 403176  8288 ?        Sl   Apr02   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+jayasoo+  1778  0.0  0.1 279224  7836 ?        Sl   Apr02   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+jayasoo+  1792  0.0  0.7 487880 30284 ?        Sl   Apr02   0:00 /usr/lib/x86_64-linux-gnu/notify-osd
+jayasoo+  1799  0.0  1.5 865704 61096 ?        Sl   Apr02   0:00 /usr/lib/evolution/evolution-calendar-factory
+jayasoo+  1802  0.0  0.2 362600  8040 ?        Sl   Apr02   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+jayasoo+  1809  0.0  0.1 344896  5604 ?        Sl   Apr02   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.3 /org/gtk/gvfs/exec_spaw/1
+jayasoo+  1822  0.0  0.4 790480 18692 ?        Sl   Apr02   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1799x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1799/2
+jayasoo+  1832  0.0  0.5 699172 21512 ?        Sl   Apr02   0:00 /usr/lib/evolution/evolution-addressbook-factory
+jayasoo+  1834  0.0  0.5 1037032 20152 ?       Sl   Apr02   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1799x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1799/3
+jayasoo+  1854  0.0  0.4 774724 18732 ?        Sl   Apr02   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx1832x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/1832/2
+jayasoo+  1886  0.0  0.1 190076  5200 ?        Sl   Apr02   0:00 /usr/lib/gvfs/gvfsd-metadata
+jayasoo+  1894  0.0  0.5 551020 22636 ?        Sl   Apr02   0:00 telepathy-indicator
+jayasoo+  1902  0.0  0.4 431592 15904 ?        Sl   Apr02   0:00 /usr/lib/telepathy/mission-control-5
+jayasoo+  1922  0.0  0.2 425564  9120 ?        Sl   Apr02   0:00 /usr/bin/zeitgeist-daemon
+jayasoo+  1929  0.0  0.3 323624 15788 ?        Sl   Apr02   0:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+jayasoo+  1931  0.0  0.3 515088 15692 ?        Sl   Apr02   0:00 zeitgeist-datahub
+jayasoo+  1982  0.0  0.6 522664 25224 ?        Sl   Apr02   0:00 update-notifier
+jayasoo+  2005  0.0  3.1 692232 123916 ?       SNl  Apr02   0:11 /usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map
+jayasoo+  2036  0.0  0.2 447588  9004 ?        Sl   Apr02   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+nobody    2242  0.0  0.1  52288  3976 ?        S    Apr02   0:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/run/sendsigs.omit.d/network-manager.dnsmasq.pid --listen-address=127.0.1.1 --conf-file=/var/run/NetworkManager/dnsmasq.conf --cache-size=0 --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+www-data  2875  0.0  0.2 278460  9448 ?        S    Apr02   0:00 /usr/sbin/apache2 -k start
+www-data  2876  0.0  0.2 278460  9448 ?        S    Apr02   0:00 /usr/sbin/apache2 -k start
+www-data  2877  0.0  0.2 278460  9448 ?        S    Apr02   0:00 /usr/sbin/apache2 -k start
+www-data  2878  0.0  0.2 278460  9448 ?        S    Apr02   0:00 /usr/sbin/apache2 -k start
+www-data  2879  0.0  0.2 278460  9448 ?        S    Apr02   0:00 /usr/sbin/apache2 -k start
+root      2909  0.0  0.1  90236  6684 ?        Ss   Apr02   0:00 /usr/sbin/cupsd -l
+lp        2911  0.0  0.1  74208  5348 ?        S    Apr02   0:00 /usr/lib/cups/notifier/dbus dbus:// 
+lp        2912  0.0  0.1  74208  5256 ?        S    Apr02   0:00 /usr/lib/cups/notifier/dbus dbus:// 
+jayasoo+  3135  0.0  1.0 654888 41108 ?        Sl   Apr02   0:17 /usr/lib/gnome-terminal/gnome-terminal-server
+jayasoo+  3142  0.0  0.0  14852  1856 ?        S    Apr02   0:00 gnome-pty-helper
+jayasoo+  3979  0.0  0.1  28176  6800 pts/16   Ss   Apr02   0:00 bash
+root      4463  0.0  0.0      0     0 ?        S    Apr02   0:02 [kworker/3:2]
+jayasoo+  5018  0.0  0.5 584552 23316 ?        Sl   Apr02   0:00 /usr/lib/gvfs/gvfsd-recent --spawner :1.3 /org/gtk/gvfs/exec_spaw/3
+root      5960  0.0  0.0      0     0 ?        S    Apr02   0:00 [kworker/3:1]
+jayasoo+  5970  0.0  3.0 1321260 119992 ?      Sl   Apr02   0:08 evince /home/jayasoorya/Downloads/Foss-Lab-master/Expt_9/mem_cpu_check_kill.pdf
+jayasoo+  5977  0.0  0.1 178460  4436 ?        Sl   Apr02   0:00 /usr/lib/evince/evinced
+jayasoo+  6017  0.0  0.1  27196  5704 pts/17   Ss+  Apr02   0:00 bash
+root      7170  0.0  0.0      0     0 ?        S    Apr02   0:00 [kworker/2:0]
+root      8396  0.0  0.0      0     0 ?        S    Apr02   0:07 [kworker/0:1]
+root      8594  0.0  0.0      0     0 ?        S    Apr02   0:00 [kworker/u16:7]
+root      8632  0.0  0.0      0     0 ?        S    08:28   0:00 [irq/50-mei_me]
+root      8633  0.0  0.0      0     0 ?        S    08:28   0:00 [kworker/u16:45]
+root      8689  0.0  0.0      0     0 ?        S    08:28   0:00 [kworker/1:2]
+root     10550  0.0  0.0      0     0 ?        S    08:35   0:00 [kworker/1:0]
+root     10553  0.0  0.0      0     0 ?        S    08:35   0:00 [kworker/2:2]
+root     10673  0.0  0.2  23456 10268 ?        S    08:39   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/sendsigs.omit.d/network-manager.dhclient-enx6e23e4c2f95a.pid -lf /var/lib/NetworkManager/dhclient-ca9f6ec6-8698-4a36-839a-af960225376e-enx6e23e4c2f95a.lease -cf /var/lib/NetworkManager/dhclient-enx6e23e4c2f95a.conf enx6e23e4c2f95a
+jayasoo+ 10813  0.7  1.3 717572 52024 ?        Sl   08:40   0:04 gedit /home/jayasoorya/foss_git/memcheck.sh
+root     10864  0.0  0.0      0     0 ?        S    08:41   0:00 [kworker/0:0]
+root     10926  0.0  0.0      0     0 ?        S    08:43   0:00 [kworker/u16:0]
+root     10934  0.0  0.0      0     0 ?        S    08:44   0:00 [kworker/1:1]
+jayasoo+ 17892  7.6  7.2 980080 287500 ?       Sl   08:46   0:11 /usr/lib/firefox/firefox
+root     17971  0.0  0.0      0     0 ?        S    08:47   0:00 [kworker/3:0]
+root     17972  0.0  0.0      0     0 ?        S    08:47   0:00 [kworker/0:2]
+jayasoo+ 17988  0.0  0.0  22676  2624 pts/16   R+   08:49   0:00 ps aux
