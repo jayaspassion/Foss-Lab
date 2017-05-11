@@ -1,0 +1,22 @@
+total 108
+-rw-rw-r-- 1 jayasoorya jayasoorya     2 Apr 20 14:38 8
+-rwxr-xr-x 1 jayasoorya jayasoorya   341 Apr  3 08:58 addnames.sh
+-rwxr-xr-x 1 jayasoorya jayasoorya   471 Mar 27 09:32 addnames.sh~
+-rw-rw-r-- 1 jayasoorya jayasoorya   469 Apr  2 23:30 calculator_op
+-rwxr-xr-x 1 jayasoorya jayasoorya   808 Mar 27 09:32 calculator.sh
+-rw-rw-r-- 1 jayasoorya jayasoorya    24 Apr  3 09:46 classlist
+-rw-rw-r-- 1 jayasoorya jayasoorya  3083 Apr  2 22:49 exp1
+-rw-rw-r-- 1 jayasoorya jayasoorya  1715 Apr  2 22:53 exp2
+-rwxrwxr-x 1 jayasoorya jayasoorya   261 Apr  2 22:58 exp3
+-rw-rw-r-- 1 jayasoorya jayasoorya   421 Apr  2 23:04 exp3_op
+-rw-rw-r-- 1 jayasoorya jayasoorya  8553 Apr  2 23:19 exp4_op.txt
+-rwxr-xr-x 1 jayasoorya jayasoorya   341 Apr  2 23:16 exp4.sh
+-rw-rw-r-- 1 jayasoorya jayasoorya  7657 Apr  2 23:47 exp9_op.txt
+drwxrwxr-x 2 jayasoorya jayasoorya  4096 May  5 08:42 Expt_10
+-rw-rw-r-- 1 jayasoorya jayasoorya  2253 Apr  3 09:26 gitDoc.txt
+-rw-rw-r-- 1 jayasoorya jayasoorya 19985 Apr  3 08:49 hello.txt
+-rwxr-xr-x 1 jayasoorya jayasoorya   526 Apr 20 14:37 memcheck.sh
+-rwxr-xr-x 1 jayasoorya jayasoorya   776 Apr  3 08:46 memcheck.sh~
+-rw-rw-r-- 1 jayasoorya jayasoorya   142 May  5 13:46 perl1.pl
+-rw-rw-r-- 1 jayasoorya jayasoorya   286 May  5 13:50 perl2.pl
+-rw-rw-r-- 1 jayasoorya jayasoorya     0 May  5 13:54 test123.txt

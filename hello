@@ -1,0 +1,285 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1 185340  5588 ?        Ss   May04   0:02 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    May04   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    May04   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   May04   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    May04   0:08 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    May04   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    May04   0:04 [rcuos/0]
+root        10  0.0  0.0      0     0 ?        S    May04   0:00 [rcuob/0]
+root        11  0.0  0.0      0     0 ?        S    May04   0:00 [migration/0]
+root        12  0.0  0.0      0     0 ?        S    May04   0:00 [watchdog/0]
+root        13  0.0  0.0      0     0 ?        S    May04   0:00 [watchdog/1]
+root        14  0.0  0.0      0     0 ?        S    May04   0:00 [migration/1]
+root        15  0.0  0.0      0     0 ?        S    May04   0:00 [ksoftirqd/1]
+root        17  0.0  0.0      0     0 ?        S<   May04   0:00 [kworker/1:0H]
+root        18  0.0  0.0      0     0 ?        S    May04   0:01 [rcuos/1]
+root        19  0.0  0.0      0     0 ?        S    May04   0:00 [rcuob/1]
+root        20  0.0  0.0      0     0 ?        S    May04   0:00 [watchdog/2]
+root        21  0.0  0.0      0     0 ?        S    May04   0:00 [migration/2]
+root        22  0.0  0.0      0     0 ?        S    May04   0:00 [ksoftirqd/2]
+root        24  0.0  0.0      0     0 ?        S<   May04   0:00 [kworker/2:0H]
+root        25  0.0  0.0      0     0 ?        S    May04   0:04 [rcuos/2]
+root        26  0.0  0.0      0     0 ?        S    May04   0:00 [rcuob/2]
+root        27  0.0  0.0      0     0 ?        S    May04   0:00 [watchdog/3]
+root        28  0.0  0.0      0     0 ?        S    May04   0:00 [migration/3]
+root        29  0.0  0.0      0     0 ?        S    May04   0:00 [ksoftirqd/3]
+root        31  0.0  0.0      0     0 ?        S<   May04   0:00 [kworker/3:0H]
+root        32  0.0  0.0      0     0 ?        S    May04   0:02 [rcuos/3]
+root        33  0.0  0.0      0     0 ?        S    May04   0:00 [rcuob/3]
+root        34  0.0  0.0      0     0 ?        S<   May04   0:00 [khelper]
+root        35  0.0  0.0      0     0 ?        S    May04   0:00 [kdevtmpfs]
+root        36  0.0  0.0      0     0 ?        S<   May04   0:00 [netns]
+root        37  0.0  0.0      0     0 ?        S<   May04   0:00 [perf]
+root        38  0.0  0.0      0     0 ?        S    May04   0:00 [khungtaskd]
+root        39  0.0  0.0      0     0 ?        S<   May04   0:00 [writeback]
+root        40  0.0  0.0      0     0 ?        SN   May04   0:00 [ksmd]
+root        41  0.0  0.0      0     0 ?        SN   May04   0:02 [khugepaged]
+root        42  0.0  0.0      0     0 ?        S<   May04   0:00 [crypto]
+root        43  0.0  0.0      0     0 ?        S<   May04   0:00 [kintegrityd]
+root        44  0.0  0.0      0     0 ?        S<   May04   0:00 [bioset]
+root        45  0.0  0.0      0     0 ?        S<   May04   0:00 [kblockd]
+root        46  0.0  0.0      0     0 ?        S<   May04   0:00 [ata_sff]
+root        47  0.0  0.0      0     0 ?        S<   May04   0:00 [md]
+root        48  0.0  0.0      0     0 ?        S<   May04   0:00 [devfreq_wq]
+root        53  0.0  0.0      0     0 ?        S    May04   0:00 [kswapd0]
+root        54  0.0  0.0      0     0 ?        S<   May04   0:00 [vmstat]
+root        55  0.0  0.0      0     0 ?        S    May04   0:00 [fsnotify_mark]
+root        56  0.0  0.0      0     0 ?        S    May04   0:00 [ecryptfs-kthrea]
+root        67  0.0  0.0      0     0 ?        S<   May04   0:00 [kthrotld]
+root        68  0.0  0.0      0     0 ?        S<   May04   0:00 [acpi_thermal_pm]
+root        73  0.0  0.0      0     0 ?        S<   May04   0:00 [ipv6_addrconf]
+root        92  0.0  0.0      0     0 ?        S<   May04   0:00 [deferwq]
+root        93  0.0  0.0      0     0 ?        S<   May04   0:00 [charger_manager]
+root       138  0.0  0.0      0     0 ?        S<   May04   0:00 [kpsmoused]
+root       139  0.0  0.0      0     0 ?        S    May04   0:00 [scsi_eh_0]
+root       140  0.0  0.0      0     0 ?        S<   May04   0:00 [scsi_tmf_0]
+root       141  0.0  0.0      0     0 ?        S    May04   0:00 [scsi_eh_1]
+root       142  0.0  0.0      0     0 ?        S<   May04   0:00 [scsi_tmf_1]
+root       144  0.0  0.0      0     0 ?        S<   May04   0:00 [rtsx_pci_sdmmc_]
+root       151  0.0  0.0      0     0 ?        S<   May04   0:00 [kworker/1:1H]
+root       153  0.0  0.0      0     0 ?        S<   May04   0:00 [kworker/2:1H]
+root       177  0.0  0.0      0     0 ?        S    May04   0:01 [jbd2/sda7-8]
+root       178  0.0  0.0      0     0 ?        S<   May04   0:00 [ext4-rsv-conver]
+root       211  0.0  0.0      0     0 ?        S    May04   0:00 [kauditd]
+root       229  0.0  0.1  40732  7868 ?        Ss   May04   0:01 /lib/systemd/systemd-journald
+root       246  0.0  0.0  45904  3384 ?        Ss   May04   0:01 /lib/systemd/systemd-udevd
+root       291  0.0  0.0      0     0 ?        S<   May04   0:00 [kmemstick]
+root       292  0.0  0.0      0     0 ?        S<   May04   0:00 [kworker/0:1H]
+root       301  0.0  0.0      0     0 ?        S<   May04   0:00 [kworker/3:1H]
+root       390  0.0  0.0      0     0 ?        S<   May04   0:00 [kvm-irqfd-clean]
+systemd+   473  0.0  0.0 102352  2616 ?        Ssl  May04   0:00 /lib/systemd/systemd-timesyncd
+root       579  0.0  0.3 382188 15112 ?        Ssl  May04   0:02 /usr/sbin/NetworkManager --no-daemon
+syslog     580  0.0  0.0 256368  3124 ?        Ssl  May04   0:00 /usr/sbin/rsyslogd -n
+root       584  0.0  0.0  33120  2780 ?        Ss   May04   0:00 /usr/sbin/cron -f
+whoopsie   588  0.0  0.3 521228 12264 ?        Ssl  May04   0:00 /usr/bin/whoopsie -f
+message+   590  0.0  0.1  44260  5076 ?        Ss   May04   0:02 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       595  0.0  0.1  90340  7180 ?        Ss   May04   0:00 /usr/sbin/cupsd -l
+root       596  0.0  0.2 170512  8760 ?        Ssl  May04   0:00 /usr/sbin/thermald --no-daemon --dbus-enable
+root       597  0.0  0.0  28624  3064 ?        Ss   May04   0:00 /lib/systemd/systemd-logind
+root       599  0.0  0.0  25180  2552 ?        Ss   May04   0:00 /sbin/cgmanager -m name=systemd
+root       600  0.0  0.2 337272  8556 ?        Ssl  May04   0:00 /usr/sbin/ModemManager
+avahi      605  0.0  0.0  40184  3320 ?        Ss   May04   0:00 avahi-daemon: running [jayasoorya-Satellite-C55-C.local]
+root       607  0.0  0.1 287308  6724 ?        Ssl  May04   0:00 /usr/lib/accountsservice/accounts-daemon
+root       634  0.0  0.0  19524  2196 ?        Ss   May04   0:00 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+avahi      636  0.0  0.0  40064   320 ?        S    May04   0:00 avahi-daemon: chroot helper
+root       637  0.0  0.2 272356 11384 ?        Ssl  May04   0:00 /usr/sbin/cups-browsed
+root       661  0.0  0.1 278628  7872 ?        Ssl  May04   0:00 /usr/lib/policykit-1/polkitd --no-debug
+mysql      667  0.0  0.0   4476  1676 ?        Ss   May04   0:00 /bin/sh /usr/bin/mysqld_safe
+mysql     1094  0.0  3.1 731320 126356 ?       Sl   May04   0:07 /usr/sbin/mysqld --basedir=/usr --datadir=/var/lib/mysql --plugin-dir=/usr/lib/mysql/plugin --log-error=/var/log/mysql/error.log --pid-file=/var/run/mysqld/mysqld.pid --socket=/var/run/mysqld/mysqld.sock --port=3306
+root      1112  0.0  0.1  39192  4952 ?        Ss   May04   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root      1141  0.0  0.1 352412  6164 ?        SLsl May04   0:00 /usr/sbin/lightdm
+root      1150  0.3  1.7 376392 68904 tty7     Ssl+ May04   3:08 /usr/bin/X -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1159  0.0  0.0   4396  1812 ?        Ss   May04   0:00 /usr/sbin/acpid
+root      1215  0.0  0.2 230220  8252 ?        Sl   May04   0:00 lightdm --session-child 12 19
+root      1247  0.0  0.1  29708  4412 ?        Ss   May04   0:00 /usr/lib/bluetooth/bluetoothd
+root      1287  0.0  0.0  20048  2072 tty1     Ss+  May04   0:00 /sbin/agetty --noclear tty1 linux
+kernoops  1290  0.0  0.0  45280  2688 ?        Ss   May04   0:00 /usr/sbin/kerneloops
+rtkit     1318  0.0  0.0 178816  2876 ?        SNsl May04   0:00 /usr/lib/rtkit/rtkit-daemon
+root      1339  0.0  0.2 345672 10180 ?        Ssl  May04   0:01 /usr/lib/upower/upowerd
+root      1343  0.0  0.6 278324 24288 ?        Ss   May04   0:00 /usr/sbin/apache2 -k start
+colord    1367  0.0  0.3 305108 12412 ?        Ssl  May04   0:00 /usr/lib/colord/colord
+www-data  1384  0.0  0.5 287792 23508 ?        S    May04   0:00 /usr/sbin/apache2 -k start
+www-data  1385  0.0  0.6 288008 23968 ?        S    May04   0:00 /usr/sbin/apache2 -k start
+www-data  1386  0.0  0.4 285744 19616 ?        S    May04   0:00 /usr/sbin/apache2 -k start
+www-data  1387  0.0  0.5 287492 20180 ?        S    May04   0:00 /usr/sbin/apache2 -k start
+www-data  1388  0.0  0.6 288436 25232 ?        S    May04   0:00 /usr/sbin/apache2 -k start
+jayasoo+  1413  0.0  0.1  45288  5116 ?        Ss   May04   0:00 /lib/systemd/systemd --user
+jayasoo+  1414  0.0  0.0 208788  1700 ?        S    May04   0:00 (sd-pam)         
+jayasoo+  1419  0.0  0.2 293740  8544 ?        SLl  May04   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+jayasoo+  1421  0.0  0.1  45908  4328 ?        Ss   May04   0:00 /sbin/upstart --user
+jayasoo+  1503  0.0  0.0  32296   132 ?        S    May04   0:00 upstart-udev-bridge --daemon --user
+jayasoo+  1514  0.0  0.1  43992  4540 ?        Ss   May04   0:04 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-nWVjZsOdnS
+jayasoo+  1526  0.0  0.2  88308  8760 ?        Ss   May04   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+jayasoo+  1560  0.0  0.0  32316  1696 ?        S    May04   0:00 upstart-dbus-bridge --daemon --session --user --bus-name session
+jayasoo+  1564  0.0  0.0  32232   248 ?        S    May04   0:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+jayasoo+  1572  0.0  0.2 352772  8092 ?        Ssl  May04   0:11 /usr/bin/ibus-daemon --daemonize --xim
+jayasoo+  1580  0.0  0.1 271264  5748 ?        Sl   May04   0:00 /usr/lib/gvfs/gvfsd
+jayasoo+  1588  0.0  0.1 409032  4844 ?        Sl   May04   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+jayasoo+  1598  0.0  1.0 647452 41036 ?        Ssl  May04   0:06 /usr/lib/x86_64-linux-gnu/hud/hud-service
+jayasoo+  1601  0.0  0.6 931076 27176 ?        Ssl  May04   0:00 /usr/lib/unity-settings-daemon/unity-settings-daemon
+jayasoo+  1605  0.3  2.3 1189772 91764 ?       Ssl  May04   3:50 compiz
+jayasoo+  1607  0.0  0.1 337952  5404 ?        Ssl  May04   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+jayasoo+  1608  0.0  0.3 554596 14516 ?        Ssl  May04   0:00 gnome-session --session=ubuntu
+jayasoo+  1614  0.0  0.0  42856  3684 ?        S    May04   0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+jayasoo+  1615  0.0  1.2 654096 50060 ?        Ssl  May04   0:07 /usr/lib/unity/unity-panel-service
+jayasoo+  1617  0.0  0.1 206828  5092 ?        Sl   May04   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+jayasoo+  1632  0.0  0.0  40836  1480 ?        S    May04   0:00 upstart-file-bridge --daemon --user
+jayasoo+  1635  0.0  0.1 270504  5980 ?        Sl   May04   0:00 /usr/lib/ibus/ibus-dconf
+jayasoo+  1636  0.0  0.6 474072 25372 ?        Sl   May04   0:04 /usr/lib/ibus/ibus-ui-gtk3
+jayasoo+  1638  0.0  0.3 376664 12360 ?        Sl   May04   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+jayasoo+  1643  0.0  0.1 194772  5724 ?        Sl   May04   0:03 /usr/lib/ibus/ibus-engine-simple
+jayasoo+  1652  0.0  0.0  22364  2436 ?        S    May04   0:00 syndaemon -i 1.0 -t -K -R
+jayasoo+  1659  1.3  0.3 639420 12716 ?        S<l  May04  13:50 /usr/bin/pulseaudio --start --log-target=syslog
+jayasoo+  1668  0.0  0.5 513848 21896 ?        Sl   May04   0:03 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+jayasoo+  1681  0.0  0.1 178632  4788 ?        Sl   May04   0:00 /usr/lib/dconf/dconf-service
+jayasoo+  1697  0.0  0.1 363564  7132 ?        Ssl  May04   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+jayasoo+  1698  0.0  0.1 337612  7192 ?        Ssl  May04   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+jayasoo+  1699  0.0  0.2 427216  8104 ?        Ssl  May04   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+jayasoo+  1700  0.0  0.4 1234712 17096 ?       Ssl  May04   0:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+jayasoo+  1701  0.0  0.6 789156 25556 ?        Ssl  May04   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+jayasoo+  1710  0.0  0.2 475292  9896 ?        Ssl  May04   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+jayasoo+  1711  0.0  0.4 541284 17864 ?        Ssl  May04   0:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+jayasoo+  1716  0.0  0.2 959168  8624 ?        Ssl  May04   0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+jayasoo+  1720  0.0  0.2 395588 10448 ?        Ssl  May04   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+jayasoo+  1757  0.0  0.5 1174064 22716 ?       Sl   May04   0:00 /usr/lib/evolution/evolution-source-registry
+jayasoo+  1767  0.0  1.6 1052860 66440 ?       Sl   May04   0:10 nautilus -n
+jayasoo+  1768  0.0  0.7 622180 29372 ?        Sl   May04   0:01 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+jayasoo+  1769  0.0  0.3 425816 15348 ?        Sl   May04   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+jayasoo+  1771  0.0  0.8 660948 32564 ?        Sl   May04   0:02 nm-applet
+jayasoo+  1784  0.0  0.2 363320 10472 ?        Sl   May04   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      1787  0.0  0.2 433420 11740 ?        Ssl  May04   0:03 /usr/lib/udisks2/udisksd --no-debug
+jayasoo+  1791  0.0  0.1  66152  5992 ?        S    May04   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+jayasoo+  1802  0.0  0.1 275816  5492 ?        Sl   May04   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+jayasoo+  1810  0.0  0.2 403168  8616 ?        Sl   May04   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+jayasoo+  1816  0.0  0.1 268156  6156 ?        Sl   May04   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+jayasoo+  1834  0.0  0.7 485912 27836 ?        Sl   May04   0:03 /usr/lib/x86_64-linux-gnu/notify-osd
+jayasoo+  1856  0.0  1.4 859200 55936 ?        Sl   May04   0:00 /usr/lib/evolution/evolution-calendar-factory
+jayasoo+  1862  0.0  0.2 359500  8304 ?        Sl   May04   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.5 /org/gtk/gvfs/exec_spaw/0
+jayasoo+  1873  0.0  0.3 849232 14916 ?        Sl   May04   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1856x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1856/2
+jayasoo+  1883  0.0  0.4 692356 18784 ?        Sl   May04   0:00 /usr/lib/evolution/evolution-addressbook-factory
+jayasoo+  1885  0.0  0.4 1030212 16164 ?       Sl   May04   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1856x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1856/3
+jayasoo+  1906  0.0  0.4 767904 17980 ?        Sl   May04   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx1883x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/1883/2
+jayasoo+  1939  0.0  0.1 344896  5640 ?        Sl   May04   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.5 /org/gtk/gvfs/exec_spaw/1
+jayasoo+  1948  0.0  0.1 190076  5100 ?        Sl   May04   0:00 /usr/lib/gvfs/gvfsd-metadata
+jayasoo+  1959  0.0  0.5 548856 21452 ?        Sl   May04   0:00 telepathy-indicator
+jayasoo+  1967  0.0  0.3 424896 14948 ?        Sl   May04   0:00 /usr/lib/telepathy/mission-control-5
+jayasoo+  1992  0.0  0.4 510904 15892 ?        Sl   May04   0:00 zeitgeist-datahub
+jayasoo+  1998  0.0  0.1 412348  7288 ?        Sl   May04   0:00 /usr/bin/zeitgeist-daemon
+jayasoo+  2007  0.0  0.3 319308 14424 ?        Sl   May04   0:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+jayasoo+  2024  0.6 11.8 1469892 469560 ?      Sl   May04   6:45 /usr/lib/firefox/firefox
+jayasoo+  2196  0.0  0.6 563196 26756 ?        Sl   May04   0:00 update-notifier
+nobody    2252  0.0  0.0  52284  3856 ?        S    May04   0:01 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/run/sendsigs.omit.d/network-manager.dnsmasq.pid --listen-address=127.0.1.1 --conf-file=/var/run/NetworkManager/dnsmasq.conf --cache-size=0 --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+jayasoo+  2480  1.3  5.4 1444268 216024 ?      SLl  May04  14:05 /opt/google/chrome/chrome    
+jayasoo+  2487  0.0  0.0  11576   624 ?        S    May04   0:00 cat
+jayasoo+  2488  0.0  0.0  11576   636 ?        S    May04   0:00 cat
+jayasoo+  2492  0.0  1.2 376964 48472 ?        S    May04   0:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6,
+jayasoo+  2493  0.0  0.2  81396 11360 ?        S    May04   0:00 /opt/google/chrome/nacl_helper
+jayasoo+  2500  0.0  0.2 376964 11848 ?        S    May04   0:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6,
+jayasoo+  2536  0.3  3.2 521480 126988 ?       Rl   May04   3:28 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=1 --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --supports-dual-gpus=false --gpu-driver-bug-workarounds=1,7,8,10,23,28,61,66,74 --disable-gl-extensions=GL_ARB_timer_query GL_EXT_timer_query GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=Mesa --gpu-driver-version=11.0.2 --gpu-driver-date --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --service-request-channel-token=2E6F66835DAE30EC631446B36D6FA217
+jayasoo+  2548  0.0  0.3 378316 12324 ?        S    May04   0:00 /opt/google/chrome/chrome --type=gpu-broker                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+jayasoo+  2587  0.0  0.1 441700  7052 ?        Sl   May04   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+jayasoo+  2720  0.0  2.3 814084 92792 ?        Sl   May04   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=727A59AE3626A8AC1579246EECCDFE5D --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=727A59AE3626A8AC1579246EECCDFE5D --renderer-client-id=21 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+www-data  2734  0.0  0.6 286876 24572 ?        S    May04   0:00 /usr/sbin/apache2 -k start
+jayasoo+  2738  0.0  2.1 801832 85816 ?        Sl   May04   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=5D9E815B34F17A6A3BA32A35B27D9453 --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=5D9E815B34F17A6A3BA32A35B27D9453 --renderer-client-id=25 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jayasoo+  2753  0.0  1.7 745332 68576 ?        Sl   May04   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=A0C713B2BB2DD380AA1D57A5CD28E828 --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=A0C713B2BB2DD380AA1D57A5CD28E828 --renderer-client-id=24 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jayasoo+  2763  0.0  3.1 848396 126144 ?       Sl   May04   0:02 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=D0703EF31888314E482354D2A97FA2E3 --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=D0703EF31888314E482354D2A97FA2E3 --renderer-client-id=20 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+www-data  2772  0.0  0.4 286264 19388 ?        S    May04   0:00 /usr/sbin/apache2 -k start
+www-data  2773  0.0  0.5 286096 22744 ?        S    May04   0:00 /usr/sbin/apache2 -k start
+www-data  2775  0.0  0.3 278700 15788 ?        S    May04   0:00 /usr/sbin/apache2 -k start
+jayasoo+  2782  0.0  2.4 796636 98704 ?        Sl   May04   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=B2D17F52D12BD4CB91B96BC71B2B7922 --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=B2D17F52D12BD4CB91B96BC71B2B7922 --renderer-client-id=15 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jayasoo+  2793  0.1 11.2 1288980 446404 ?      Sl   May04   1:07 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=0806188716F559C3D328DD1F4538A55A --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=0806188716F559C3D328DD1F4538A55A --renderer-client-id=27 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jayasoo+  2809  0.0  1.7 752812 70000 ?        Sl   May04   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=8EE6F35CD6A09541F3E043AE7C79BE0E --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=8EE6F35CD6A09541F3E043AE7C79BE0E --renderer-client-id=16 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jayasoo+  2819  0.0  2.4 822616 98136 ?        Sl   May04   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=7A37AE160E10461F3BDF5420F7A51564 --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=7A37AE160E10461F3BDF5420F7A51564 --renderer-client-id=17 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jayasoo+  2846  0.2  3.8 933820 152776 ?       Sl   May04   2:43 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=AFAB449E8B9151A5A5FF0FAA316478B0 --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=AFAB449E8B9151A5A5FF0FAA316478B0 --renderer-client-id=18 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jayasoo+  2878  0.0  4.8 959780 192728 ?       Sl   May04   0:21 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=2025B5AA8A0AB964BF27266A31943C1B --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=2025B5AA8A0AB964BF27266A31943C1B --renderer-client-id=19 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jayasoo+  2933  0.0  3.9 921492 155952 ?       Sl   May04   0:45 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=9C277FC1F646DF31EC9D12F1BA57AFD0 --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=9C277FC1F646DF31EC9D12F1BA57AFD0 --renderer-client-id=23 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jayasoo+  6600  0.1  7.9 1130980 315008 ?      Sl   May04   1:39 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=465DD4605158DC06035EB60CB8613FDB --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=465DD4605158DC06035EB60CB8613FDB --renderer-client-id=153 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jayasoo+  8006  0.0  0.9 648136 36356 ?        Rl   08:40   0:05 /usr/lib/gnome-terminal/gnome-terminal-server
+jayasoo+  8013  0.0  0.0  14848  1868 ?        S    08:40   0:00 gnome-pty-helper
+jayasoo+  8014  0.0  0.1  27344  5964 pts/5    Ss+  08:40   0:00 bash
+jayasoo+  8460  0.0  0.0   4476   816 pts/5    T    08:42   0:00 /bin/sh ./calculator.sh
+root     11788  0.0  0.0      0     0 ?        S    09:22   0:01 [kworker/0:1]
+www-data 12411  0.0  0.2 278364  8004 ?        S    09:56   0:00 /usr/sbin/apache2 -k start
+root     12679  0.0  0.0      0     0 ?        S    10:11   0:00 [kworker/3:1]
+root     12720  0.0  0.0      0     0 ?        S    10:15   0:00 [kworker/u16:15]
+jayasoo+ 13740  0.0  0.1  27412  5968 pts/11   Ss   13:38   0:00 bash
+root     14067  0.0  0.0      0     0 ?        S    13:43   0:00 [kworker/2:0]
+root     14213  0.0  0.0      0     0 ?        S    13:47   0:00 [kworker/1:0]
+root     14241  0.0  0.0      0     0 ?        S    13:47   0:00 [kworker/u16:1]
+root     14397  0.0  0.0      0     0 ?        S    13:52   0:00 [kworker/1:1]
+root     14398  0.0  0.0      0     0 ?        S    13:52   0:00 [kworker/3:0]
+root     14406  0.0  0.0      0     0 ?        S    13:52   0:00 [kworker/2:1]
+root     14454  0.0  0.0      0     0 ?        S    13:54   0:00 [kworker/0:2]
+root     14461  0.0  0.0      0     0 ?        S    13:54   0:00 [kworker/u16:2]
+jayasoo+ 14574  0.0  0.0   7584  1088 pts/11   T    13:56   0:00 awk test123
+jayasoo+ 14609  0.0  0.0   7584   976 pts/11   T    13:57   0:00 awk {print $3 $2}test123
+root     14746  0.0  0.0      0     0 ?        S    14:02   0:00 [kworker/0:0]
+root     14807  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:0]
+root     14808  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:3]
+root     14809  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:4]
+root     14810  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:5]
+root     14811  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:6]
+root     14812  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:7]
+root     14813  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:8]
+root     14814  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:9]
+root     14815  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:10]
+root     14816  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:11]
+root     14817  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:12]
+root     14818  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:13]
+root     14819  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:14]
+root     14820  0.0  0.0      0     0 ?        S    14:03   0:00 [kworker/u16:16]
+root     14821  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:17]
+root     14822  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:18]
+root     14823  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:19]
+root     14824  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:20]
+root     14825  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:21]
+root     14826  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:22]
+root     14827  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:23]
+root     14828  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:24]
+root     14829  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:25]
+root     14830  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:26]
+root     14831  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:27]
+root     14832  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:28]
+root     14833  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:29]
+root     14834  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:30]
+root     14835  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:31]
+root     14836  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:32]
+root     14837  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:33]
+root     14838  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:34]
+root     14839  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:35]
+root     14840  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:36]
+root     14841  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:37]
+root     14842  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:38]
+root     14843  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:39]
+root     14844  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:40]
+root     14845  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:41]
+root     14846  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:42]
+root     14847  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:43]
+root     14848  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:44]
+root     14849  0.0  0.0      0     0 ?        S    14:08   0:00 [irq/50-mei_me]
+root     14850  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:45]
+root     14851  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:46]
+root     14852  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:47]
+root     14853  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:48]
+root     14854  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:49]
+root     14855  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:50]
+root     14856  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:51]
+root     14857  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:52]
+root     14858  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:53]
+root     14859  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:54]
+root     14860  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:55]
+root     14861  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:56]
+root     14862  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:57]
+root     14863  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:58]
+root     14864  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:59]
+root     14865  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:60]
+root     14866  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:61]
+root     14867  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:62]
+root     14868  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:63]
+root     14869  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:64]
+root     14870  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/u16:65]
+root     14871  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/3:2]
+root     14872  0.0  0.0      0     0 ?        S    14:08   0:00 [kworker/1:2]
+jayasoo+ 14980  0.6  1.7 751612 71288 ?        Sl   14:10   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=1 --primordial-pipe-token=875051F8A7223268F4F23DBE80577A4F --lang=en-GB --enable-crash-reporter=d0cb5647-402e-4ed9-8b75-cd3ebb9c56b6, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=false --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553 --disable-accelerated-video-decode --service-request-channel-token=875051F8A7223268F4F23DBE80577A4F --renderer-client-id=377 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jayasoo+ 14991  0.0  0.0  22672  2468 pts/11   R+   14:10   0:00 ps aux
